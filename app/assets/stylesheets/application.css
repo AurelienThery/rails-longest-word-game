@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+ /* letter{
+  background-color: blue,
+ }; */
+ ul{
+  padding:20px;
+
+
+ }
+ li{
+  padding:20px;
+  display: inline;
+  background-color:blue;
+  color:lightgray;
+  border-radius: 5px ;
+  
+ }
